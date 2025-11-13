@@ -60,7 +60,7 @@
   border-bottom: 1px solid;
 }
 
-.main{
+.main {
   width: 100%;
 }
 
@@ -150,7 +150,7 @@
   padding: 0;
 }
 
-.section{
+.section {
   width: 100%;
 }
 .lots_card-list-item {
@@ -263,7 +263,7 @@
 }
 
 .about_text p:last-child {
-  margin-bottom: 0; 
+  margin-bottom: 0;
 }
 
 
