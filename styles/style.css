@@ -50,7 +50,7 @@
   justify-self: end;
   max-width: 240px;
   font-style: normal; 
-  line-height: 1.35; 
+  line-height: 24.3px; 
   text-align: left;
 }
 
@@ -283,10 +283,6 @@
   padding: 0;
 }
 
-.footer_address {
-  text-align: left;
-}
-
 .footer_address a,
 .footer_address p {
   margin: 0;
@@ -295,6 +291,7 @@
 
 .footer_address {
   max-width: 264px;
+  text-align: left;
 }
 .footer_menu-list {
   list-style: none;
